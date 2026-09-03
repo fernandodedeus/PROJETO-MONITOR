@@ -7,11 +7,11 @@
 ## 📌 ETAPA 1: Entendimento do Problema e Contexto
 
 ### Quem é o Usuário
-* **Perfil:** Gestor/Administrador de TI da empresa responsável pelo gerenciamento dos servidores e pela estabilidade dos serviços[cite: 1].
+* **Perfil:** Gestor/Administrador de TI da empresa responsável pelo gerenciamento dos servidores e pela estabilidade dos serviços.
 
 ### Qual Problema seu Projeto Resolve
-* **Problema:** A falta de visibilidade centralizada sobre a disponibilidade e a gestão de status e consumo de recursos (como uso de CPU) em múltiplos servidores[cite: 1].
-* **Solução:** Uma plataforma web que automatiza a checagem de integridade das máquinas e serviços, eliminando a necessidade de verificações manuais isoladas e reduzindo o tempo de identificação de indisponibilidades[cite: 1].
+* **Problema:** A falta de visibilidade centralizada sobre a disponibilidade e a gestão de status e consumo de recursos (como uso de CPU) em múltiplos servidores.
+* **Solução:** Uma plataforma web que automatiza a checagem de integridade das máquinas e serviços, eliminando a necessidade de verificações manuais isoladas e reduzindo o tempo de identificação de indisponibilidades.
 
 ### Quem são os Interessados (Stakeholders)
 * Empresas de infraestrutura e provedores de hospedagem/venda de servidores (público-alvo principal).
@@ -19,9 +19,9 @@
 * Equipes de TI, suporte técnico e administradores de sistemas (SysAdmins).
 
 ### Por que seu Projeto Gera Valor
-* Substitui rotinas manuais e descentralizadas de avaliação de desempenho[cite: 1].
-* Centraliza o status de múltiplos servidores em um único painel (dashboard)[cite: 1].
-* Permite rápida tomada de decisão ao identificar falhas de disponibilidade antes que afetem os clientes finais[cite: 1].
+* Substitui rotinas manuais e descentralizadas de avaliação de desempenho.
+* Centraliza o status de múltiplos servidores em um único painel (dashboard).
+* Permite rápida tomada de decisão ao identificar falhas de disponibilidade antes que afetem os clientes finais.
 
 ---
 
