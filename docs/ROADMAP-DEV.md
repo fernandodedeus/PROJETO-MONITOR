@@ -1,6 +1,6 @@
 # 🗺️ ROADMAP DE DESENVOLVIMENTO — Projeto Monitor
 
-> Guia prático de desenvolvimento, com a ordem recomendada de implementação, dependências entre tarefas e marcos de entrega.
+> ROADMAP prático de desenvolvimento para nossa equipe, com a ordem de implementação, dependências entre tarefas e marcos de entrega.
 > Baseado no [ESCOPO-PROJETO.md](./ESCOPO-PROJETO.md), [ESTRUTURA-PASTAS.md](./ESTRUTURA-PASTAS.md) e [README.md](../README.md).
 
 ---
