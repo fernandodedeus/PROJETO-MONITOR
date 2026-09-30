@@ -76,3 +76,15 @@
 | **UC02** | Consultar Dashboard | Gestor de TI | Permite visualizar a visão geral de todos os servidores cadastrados e seus respectivos status em tempo real[cite: 1]. |
 | **UC03** | Executar Varredura Periódica | Sistema (Automático) | O motor do backend realiza as chamadas de rede aos servidores e atualiza a base de dados[cite: 1]. |
 | **UC04** | Visualizar Histórico de Disponibilidade | Gestor de TI | Permite consultar logs passados de tempo de resposta e quedas de um servidor específico. |
+
+## 👥 ETAPA 4: Análise de mercado e prototipagem 
+
+Areas da Ti envolvidas e como estão envolvidas:
+ Desenvolvimento: criação e manutenção da plataforma.
+ Infraestrutura: gerenciamento dos servidores e serviços monitorados.
+ Redes: verificação de conectividade, portas e tempo de resposta.
+ Banco de Dados: armazenamento dos cadastros e históricos.
+ Segurança da Informação: proteção dos acessos e dados.
+ Cloud: hospedagem e monitoramento de recursos em nuvem.
+ Suporte Técnico: identificação e tratamento de falhas.
+ Gestão de TI: acompanhamento dos indicadores e tomada de decisões.
