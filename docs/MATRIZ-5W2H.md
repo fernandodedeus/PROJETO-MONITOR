@@ -1,4 +1,4 @@
-# 📋 Matriz 5W2H — Projeto Monitor
+# Matriz 5W2H — Projeto Monitor
 
 > Análise estruturada do projeto utilizando a metodologia 5W2H, elaborada a partir da documentação existente.
 
@@ -10,7 +10,7 @@
 |---|---|
 | [README.md](../README.md) | Visão geral, personas, requisitos funcionais e não funcionais, casos de uso |
 | [ESCOPO-PROJETO.md](./ESCOPO-PROJETO.md) | Escopo completo, MVP, stack, fases de desenvolvimento, critérios de sucesso |
-| [ESTRUTURA-PASTAS.md](./ESTRUTURA-PASTAS.md) | Organização de diretórios e mapeamento escopo → estrutura |
+| [ESTRUTURA-PASTAS.md](./ESTRUTURA-PASTAS.md) | Organização de diretórios e mapeamento escopo/estrutura |
 | Documentacao_Inicial_Monitor.pdf | Documentação acadêmica inicial do projeto |
 
 ---
@@ -203,7 +203,7 @@ Dashboard atualizado
 
 ---
 
-## 📝 Metodologia da Análise
+## Metodologia da Análise
 
 ### O que foi levado em consideração
 
@@ -219,46 +219,6 @@ Os documentos possuem informações complementares e, em alguns casos, sobrepost
 
 - **ESTRUTURA-PASTAS.md** como fonte para **organização técnica e mapeamento escopo → implementação**. Este documento permitiu validar a coerência entre o que foi planejado no escopo e como a estrutura do código foi organizada para suportá-lo.
 
-- **Documentacao_Inicial_Monitor.pdf** como referência acadêmica complementar, validando o contexto do projeto como trabalho A3.
-
-#### 2. Decisões de preenchimento
-
-- **WHAT**: Optou-se por separar claramente o escopo do MVP das funcionalidades futuras, pois o documento de escopo enfatiza repetidamente a abordagem incremental e a distinção entre o que é obrigatório e o que é evolução.
-
-- **WHY**: Foram extraídas tanto as dores do usuário (vindas da persona no README) quanto o valor de negócio (visão geral do escopo), conectando o problema técnico ao impacto nos clientes finais.
-
-- **WHERE**: Combinou-se a arquitetura de infraestrutura descrita no escopo com a estrutura de diretórios documentada, fornecendo uma visão completa de "onde" — tanto no sentido de deploy quanto de organização do código-fonte.
-
-- **WHEN**: Utilizou-se integralmente o plano de 7 fases do escopo, pois é a única fonte com cronograma estruturado. Não há datas específicas nos documentos — o "quando" foi mapeado como sequência de fases.
-
-- **WHO**: A equipe é genérica nos documentos (sem nomes individuais além da persona fictícia). A divisão foi documentada conforme descrita — duas frentes de trabalho com responsabilidades listadas.
-
-- **HOW**: Combinou-se a stack tecnológica, a arquitetura e o fluxo de monitoramento de diferentes seções do escopo para montar uma visão completa do "como".
-
-- **HOW MUCH**: Este é o item com menor cobertura nas fontes. Não há orçamento, estimativa de horas ou custos definidos. A análise registrou o que pôde ser inferido: stack gratuita, esforço em 7 fases, critérios de sucesso como medida de "custo" em termos de entrega.
-
-#### 3. Lacunas identificadas
-
-Durante a análise, as seguintes lacunas foram observadas nos documentos-fonte:
-
-| Lacuna | Impacto na Matriz |
-|---|---|
-| Ausência de cronograma com datas | O "When" foi preenchido com fases, sem datas-alvo |
-| Nomes dos membros da equipe não documentados | O "Who" ficou limitado a papéis genéricos |
-| Sem estimativa de custos ou orçamento | O "How Much" financeiro ficou como "não especificado" |
-| Framework front-end não definido | Registrado como "a ser avaliado posteriormente" |
-| Definição exata do estado "Atenção" pendente | Documentado como "a ser definido durante a implementação" |
-
-#### 4. Consistência verificada
-
-A análise verificou a **coerência interna** entre os documentos:
-
-- ✅ Os requisitos do README estão alinhados com o MVP do escopo
-- ✅ As fases do escopo correspondem ao mapeamento de pastas na estrutura
-- ✅ A stack tecnológica é consistente entre todos os documentos
-- ✅ O fluxo de monitoramento descrito no escopo é coerente com os casos de uso do README
-- ✅ A persona e jornada do usuário refletem o problema e a solução propostos
-
----
+- **Documentacao_Inicial_Monitor.pdf** como referência acadêmica complementar.
 
 *Documento gerado em 30/09/2026 com base na documentação do projeto Monitor.*
