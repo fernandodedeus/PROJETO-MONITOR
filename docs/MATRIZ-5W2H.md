@@ -207,9 +207,9 @@ Dashboard atualizado
 
 ### O que foi levado em consideração
 
-A construção desta Matriz 5W2H foi realizada através de uma **análise cruzada** dos quatro documentos-fonte do projeto. Abaixo, o detalhamento do que foi considerado em cada etapa da análise:
+A construção desta Matriz 5W2H foi realizada através de uma **análise cruzada** dos quatro documentos-fonte do projeto. Abaixo, o detalhamento do que foi considerado nessa análise:
 
-#### 1. Cruzamento de informações entre documentos
+#### - Cruzamento de informações entre documentos
 
 Os documentos possuem informações complementares e, em alguns casos, sobrepostas. A análise priorizou:
 
