@@ -80,11 +80,11 @@
 ## 👥 ETAPA 4: Análise de mercado e prototipagem 
 
 Areas da Ti envolvidas e como estão envolvidas:
-* **[RNF01] Desenvolvimento:** criação e manutenção da plataforma.
-* **[RNF02] Infraestrutura:** gerenciamento dos servidores e serviços monitorados.
-* **[RNF03] Redes:** verificação de conectividade, portas e tempo de resposta.
-* **[RNF04] Banco de Dados:** armazenamento dos cadastros e históricos.
-* **[RNF05] Segurança da Informação:** proteção dos acessos e dados.
-* **[RNF06] Cloud:** hospedagem e monitoramento de recursos em nuvem.
-* **[RNF07] Suporte Técnico:** identificação e tratamento de falhas.
-* **[RNF08] Gestão de TI:** acompanhamento dos indicadores e tomada de decisões.
+* **[ATE01] Desenvolvimento:** criação e manutenção da plataforma.
+* **[ATE02] Infraestrutura:** gerenciamento dos servidores e serviços monitorados.
+* **[ATE03] Redes:** verificação de conectividade, portas e tempo de resposta.
+* **[ATE04] Banco de Dados:** armazenamento dos cadastros e históricos.
+* **[ATE05] Segurança da Informação:** proteção dos acessos e dados.
+* **[ATE06] Cloud:** hospedagem e monitoramento de recursos em nuvem.
+* **[ATE07] Suporte Técnico:** identificação e tratamento de falhas.
+* **[ATE08] Gestão de TI:** acompanhamento dos indicadores e tomada de decisões.
