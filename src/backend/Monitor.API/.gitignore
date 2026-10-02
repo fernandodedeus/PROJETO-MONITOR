@@ -1,0 +1,20 @@
+# Artefatos gerados pelo build e pela restauração de pacotes .NET.
+**/bin/
+**/obj/
+
+# Arquivos temporários e resultados de execução de testes.
+**/TestResults/
+*.coverage
+*.coveragexml
+
+# Configurações locais e cache do Visual Studio.
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configurações locais de IDEs e do sistema operacional.
+.idea/
+.DS_Store
+Thumbs.db
