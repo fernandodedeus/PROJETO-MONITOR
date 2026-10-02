@@ -42,9 +42,9 @@ A ideia central é: **construir de dentro pra fora**. Primeiro o coração do si
 ### Por onde começar (ordem exata):
 
 #### 1.1 — Inicializar o projeto ASP.NET Core
-- [ ] Criar o projeto `webapi` dentro de `src/backend/Monitor.API/`
-- [ ] Configurar o `.gitignore` adequado para .NET
-- [ ] Validar que o projeto compila e roda (`dotnet run`)
+- [✅] Criar o projeto `webapi` dentro de `src/backend/Monitor.API/`
+- [✅] Configurar o `.gitignore` adequado para .NET
+- [✅] Validar que o projeto compila e roda (`dotnet run`)
 
 #### 1.2 — Configurar o banco de dados
 - [ ] Instalar o PostgreSQL localmente (ou via Docker Compose para dev)
