@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/Monitor.API/Monitor.API.csproj" />
+  </Folder>
+</Solution>
